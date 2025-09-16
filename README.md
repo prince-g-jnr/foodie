@@ -28,28 +28,28 @@ Figma design image link for reference: https://www.figma.com/design/gy3gjJwI0IZw
 
 Screenshots of the Sections
 Header Section
-https://github.com/user-attachments/assets/94a14a5c-ebb2-4bcc-943e-efef2cf8201a
+![Foodie Header Section](https://github.com/user-attachments/assets/94a14a5c-ebb2-4bcc-943e-efef2cf8201a)
 
 Home Page Section
-https://github.com/user-attachments/assets/8c607e93-1855-4676-9903-3b9e911d70f1
+![Foodie Home page Section](https://github.com/user-attachments/assets/8c607e93-1855-4676-9903-3b9e911d70f1)
 
 Ordering Page Section
-https://github.com/user-attachments/assets/fc52b8b9-44bd-4e4a-8053-5cc4cf0c653d
+![Foodie Ordering Page Section](https://github.com/user-attachments/assets/fc52b8b9-44bd-4e4a-8053-5cc4cf0c653d)
 
 Menu Page Section
-https://github.com/user-attachments/assets/bdc3e8f2-f26d-4191-bfb9-77b04e18c8a4
+![Foodie Menu Page Section](https://github.com/user-attachments/assets/bdc3e8f2-f26d-4191-bfb9-77b04e18c8a4)
 
-About page Section
-https://github.com/user-attachments/assets/560bfbe9-6052-45c3-bbc4-a65fada69c97
+About Page Section
+![Foodie About page Section](https://github.com/user-attachments/assets/560bfbe9-6052-45c3-bbc4-a65fada69c97)
 
 Customer Review Section
-https://github.com/user-attachments/assets/031fe80c-ad7b-4ccb-8576-9d6a52b55339
+![Foodie Customer Review Section](https://github.com/user-attachments/assets/031fe80c-ad7b-4ccb-8576-9d6a52b55339)
 
 Contact us/Feedback Section
-https://github.com/user-attachments/assets/4c7a2117-e5f5-4c9c-b6d4-1dc56cc4e67a
+![Contact us/ Feedback Section](https://github.com/user-attachments/assets/4c7a2117-e5f5-4c9c-b6d4-1dc56cc4e67a)
 
 Footer Section
-https://github.com/user-attachments/assets/e6cdef4b-5545-4749-9e8c-1dc045c32a2b
+![Foodie Footer Section](https://github.com/user-attachments/assets/e6cdef4b-5545-4749-9e8c-1dc045c32a2b)
 
 
   - **Team Members & Roles** (who did what in the project)
